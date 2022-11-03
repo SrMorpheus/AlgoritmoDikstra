@@ -1,0 +1,15 @@
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.csproj.AssemblyReference.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.AssemblyInfoInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.AssemblyInfo.cs
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.csproj.CoreCompileInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\bin\Debug\net6.0\AlgoritmoDikstra2.exe
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\bin\Debug\net6.0\AlgoritmoDikstra2.deps.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\bin\Debug\net6.0\AlgoritmoDikstra2.runtimeconfig.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\bin\Debug\net6.0\AlgoritmoDikstra2.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\bin\Debug\net6.0\AlgoritmoDikstra2.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\refint\AlgoritmoDikstra2.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\AlgoritmoDikstra2.genruntimeconfig.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\AlgoritmoDijkstra\AlgoritmoDikstra\obj\Debug\net6.0\ref\AlgoritmoDikstra2.dll
